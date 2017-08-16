@@ -1,4 +1,11 @@
 
+# Fork from android-AutoFillFramework/android-AutoFillFramework
+Try to solve the problem with PrivacyStreams :
+
+https://github.com/PrivacyStreams/PrivacyStreams
+
+Add more cases to solve the problem and publish as public repo
+
 Android AutofillFramework Sample
 ===================================
 
